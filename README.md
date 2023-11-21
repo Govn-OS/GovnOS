@@ -10,4 +10,4 @@ Tools: FASM
 
 ## Insall ##
 
-Unpack all to disk root
+Unpack "govnos" folder to disk root so that the EFI folder is at the root of the disk
