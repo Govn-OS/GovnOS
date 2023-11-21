@@ -8,6 +8,6 @@ Based on https://github.com/vanosoft/HexOS
 
 Tools: FASM
 
-## Insall ##
+## Install ##
 
 Unpack "govnos" folder to disk root so that the EFI folder is at the root of the disk
