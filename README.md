@@ -10,4 +10,4 @@ Tools: FASM
 
 ## Install ##
 
-Unpack "govnos" folder to disk root so that the EFI folder is at the root of the disk
+Unpack "govnos" archive to disk root so that the EFI folder and LICENSE is at the root of the disk
