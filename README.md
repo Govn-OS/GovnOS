@@ -8,3 +8,6 @@ Based on https://github.com/vanosoft/HexOS
 
 Tools: FASM
 
+## Insall ##
+
+Unpack all to disk root
